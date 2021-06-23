@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/05 11:07:53.000.955,=rtl.dcp</Transaction>
+    <Transaction>2021/06/05 11:11:07.000.911,C:\Users\Gabriel e Alcione\OneDrive\Documentos\Embarcadero\Studio\Projects\Package1.dproj=D:\Desenvolvimento\Fontes\HTTPv20D\HTTP2ForD.dproj</Transaction>
+    <Transaction>2021/06/05 11:11:15.000.722,=D:\Desenvolvimento\Fontes\HTTPv20D\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 11:18:13.000.235,D:\Desenvolvimento\Fontes\HTTPv20D\Unit1.pas=D:\Desenvolvimento\Fontes\HTTPv20D\headers\D4Http2.nghttp2.pas</Transaction>
+    <Transaction>2021/06/05 11:18:35.000.875,=D:\Desenvolvimento\Fontes\HTTPv20D\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 11:19:04.000.258,D:\Desenvolvimento\Fontes\HTTPv20D\Unit1.pas=D:\Desenvolvimento\Fontes\HTTPv20D\consts\D4Http2.Consts.pas</Transaction>
+    <Transaction>2021/06/05 11:30:50.000.866,=D:\Desenvolvimento\Fontes\HTTPv20D\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 11:36:03.000.995,D:\Desenvolvimento\Fontes\HTTPv20D\Unit1.pas=D:\Desenvolvimento\Fontes\HTTPv20D\types\D4Http2.types.pas</Transaction>
+    <Transaction>2021/06/05 11:36:20.000.773,D:\Desenvolvimento\Fontes\HTTPv20D\types\D4Http2.types.pas=D:\Desenvolvimento\Fontes\HTTPv20D\types\D4Http2.records.types.pas</Transaction>
+    <Transaction>2021/06/05 11:36:29.000.790,=D:\Desenvolvimento\Fontes\HTTPv20D\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 11:36:49.000.742,D:\Desenvolvimento\Fontes\HTTPv20D\Unit1.pas=D:\Desenvolvimento\Fontes\HTTPv20D\types\D4Http2.types.enums.pas</Transaction>
+    <Transaction>2021/06/05 11:37:08.000.074,D:\Desenvolvimento\Fontes\HTTPv20D\types\D4Http2.records.types.pas=D:\Desenvolvimento\Fontes\HTTPv20D\types\D4Http2.types.records.pas</Transaction>
+  </Transactions>
+</BorlandProject>

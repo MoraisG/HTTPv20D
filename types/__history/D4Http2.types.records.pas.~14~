@@ -1,0 +1,28 @@
+unit D4Http2.types.records;
+
+interface
+
+type
+
+  /// <summary>
+  /// The primary structure to hold the resources needed for a HTTP/2
+  /// session.  The details of this structure are intentionally hidden
+  /// from the public API.
+  /// </summary>
+  TNgHTTP2Session = record
+  end;
+
+  /// <summary>
+  /// This struct is what nghttp2_version() returns.  It holds
+  /// information about the particular nghttp2 version.
+  /// API nghttp2.h have name nghttp2_info
+  /// </summary>
+  TNgHTTP2Info = record
+
+    FAge: integer;
+
+  end;
+
+implementation
+
+end.
